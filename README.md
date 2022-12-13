@@ -1,2 +1,2 @@
 # LSPD-optimization
-Code optimizations and condensations for Little Sunny Paws Daycare version 3.5.0.3
+Code optimizations for Little Sunny Paws Daycare version 3.5.0.3, focusing on removing and condensing reduntant code from game scripts.
