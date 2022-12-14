@@ -1,0 +1,24 @@
+<function name="min" parameters="a, b" type="int"><![CDATA[
+  // returns the lowest integer of the two arguments a and b
+  // example:
+  // min(3,5) -> 3
+  if (a < b) {
+    return (a)
+  }
+  else {
+    return (b)
+  }
+  //either paste this aslx into the code-view (under the functions tree, ideally) or create a script called "min" that takes parameters a and b, and returns an integer and paste the above script body into your new function
+]]></function>
+<function name="max" parameters="a, b" type="int"><![CDATA[
+  // returns the highest integer of the two arguments a and b
+  // example:
+  // min(3,5) -> 5
+  if (a > b) {
+    return (a)
+  }
+  else {
+    return (b)
+  }
+  //either paste this aslx into the code-view (under the functions tree, ideally) or create a script called "max" that takes parameters a and b, and returns an integer and paste the above script body into your new function
+]]></function>
